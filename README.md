@@ -3,7 +3,7 @@
 Android Developer with 3+ years of experience building innovative mobile applications. I'm passionate about creating high-performance apps that make a difference in users' daily lives.
 
 ## 👀 I'm interested in
-- 📱 Mobile App Development (Android & React Native)
+- 📱 Mobile App Development (Android & Flutter)
 - 🤖 AI Integration in Mobile Apps
 - 🛠️ Utility and Productivity Applications
 - 📚 New Development Trends & Technologies
@@ -16,7 +16,7 @@ Android Developer with 3+ years of experience building innovative mobile applica
 - Clean Architecture Patterns
 
 ## 💻 Tech Stack
-- **Languages:** Java, Kotlin, JavaScript (React Native)
+- **Languages:** Java, Kotlin, Dart (Flutter)
 - **Development:** Android SDK & NDK, Jetpack Components, Firebase
 - **Architecture:** MVVM, Clean Architecture
 - **Testing:** JUnit, Espresso, Mockito
