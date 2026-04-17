@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rashid%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20Enthusiast%20%7C%20Clean%20Architecture%20Advocate&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shayan%20Gul&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20Enthusiast%20%7C%20Clean%20Architecture%20Advocate&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -26,8 +26,9 @@
 
 ```yaml
 name: Shayan Gul
-location: Pakistan 🇵🇰
+location: Islamabad, Pakistan 🇵🇰
 role: Android Developer
+experience: 4+ Years
 focus: Building apps people actually love
 
 current_work:
@@ -54,45 +55,51 @@ status: ✅ Open to new projects
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### Mobile & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Components-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM_&_Clean_Architecture-FF6B6B?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ### Architecture & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Hilt-2C4F7C?style=for-the-badge&logo=dagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt_(DI)-2C4F7C?style=for-the-badge&logo=dagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Backend & Database
-<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### Design & Tools
+### Tools & Publishing
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Publishing-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
 
 </div>
+
+<br/>
+
+<!-- Work Experience -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Work Experience
+
+### 🏢 Android Developer — Binary Ops *(Aug 2022 – Present | Rawalpindi)*
+> Built Android applications from scratch, maintained them efficiently, and supported apps with **100K+ active users**
+
+- 🏳️ **Face Flag App** — Overlay country flags on faces & track upcoming independence days
+- 🕌 **Islamic Prayer Time** — Prayer times, Qibla direction, notifications, Duas, and more
+- 🖼️ **Photo Editor** — Filters, neon effects, background remover, and 20+ enhancement tools
+- 📲 **Smart Switch** — Efficient P2P data transfer between Android devices
+- 📄 **Images to PDF Converter** — Convert images to PDF with encryption, rotation & font size adjustment
+- 🌸 **Period Tracker** — Fertility & Ovulation Tracker with smart reminders & notifications
+
+### 🏢 Junior Android Developer — Impact Software Solution *(Feb 2022 – Aug 2022 | Peshawar)*
+- 🍔 **FoodyMoody** — Restaurant food ordering app (UI screens, order flow, bug fixes)
+- 🛒 **PocketMRT** — Online grocery shopping app (product listings, cart functionality, UI improvements)
 
 <br/>
 
@@ -153,6 +160,9 @@ status: ✅ Open to new projects
 
 <a href="mailto:rkknight.47@gmail.com">
   <img src="https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shayan-gul-208114231">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/rkshani">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
