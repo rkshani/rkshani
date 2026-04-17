@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
-name: Rashid Khan
+name: Shayan Gul
 location: Pakistan 🇵🇰
 role: Android Developer
 focus: Building apps people actually love
