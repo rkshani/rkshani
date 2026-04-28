@@ -135,6 +135,15 @@ status: ✅ Open to new projects
 
 <br/>
 
+<!-- Achievements -->
+## 🏅 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=rkshani&theme=onedark&no-frame=true" />
+</div>
+
+<br/>
+
 <!-- Top Repos -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Most Contributed Repos
 
