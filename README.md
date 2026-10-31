@@ -28,7 +28,7 @@
 name: Shayan Gul
 location: Islamabad, Pakistan 🇵🇰
 role: Android Developer
-experience: 4+ Years
+experience: 5+ Years
 focus: Building apps people actually love
 
 current_work:
