@@ -39,8 +39,8 @@
 
 ```kotlin
 data class Developer(
-    val name: String     = "Shayan Gul (RK)",
-    val role: String     = "Android Developer @ Binary Ops",
+    val name: String     = "Shayan Gul",
+    val role: String     = "Android Developer",
     val location: String = "Islamabad, Pakistan 🇵🇰",
     val experience: String = "5+ years",
     val stack: List<String> = listOf(
