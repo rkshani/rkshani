@@ -126,6 +126,127 @@ Built Android apps from scratch, maintained them, and supported apps with **100K
 
 <br/>
 
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+### 📱 Mobile Apps
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💳 Qist Manager — Installment Management</h4>
+      Digitises an installment sales business for electronics and bikes.
+      <ul>
+        <li>Customer file with details of 2 guarantors</li>
+        <li>Deal approval flow</li>
+        <li>Monthly installments with payment receipts</li>
+        <li>Offline-first</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Offline--first-3DDC84?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏪 Retail POS — Kiryana Shop System</h4>
+      Shop counter software that keeps working without internet.
+      <ul>
+        <li>Billing, stock and digital udhaar khata</li>
+        <li>WhatsApp payment reminders</li>
+        <li>Thermal receipts and barcode scanning</li>
+        <li>Owner / cashier / staff roles, 15+ reports</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🏠 Shared Apartment Manager</h4>
+      Tracks rent, food, bills and grocery for a shared apartment.
+      <ul>
+        <li>Rent, food and bills split equally between residents</li>
+        <li>Separate cook login to add grocery</li>
+        <li>Cook salary and advances</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVVM-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td valign="top">
+      <h4>🧵 Tailor Shop Management</h4>
+      Darzi shop app for orders, measurements and receipts.
+      <ul>
+        <li>Customer orders and measurements</li>
+        <li>Voice notes for order details</li>
+        <li>PDF receipts</li>
+        <li>Expense tracking</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+### 🌐 Web & Full-stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📝 ResumeCraft Pro — Resume Builder</h4>
+      Write your resume once, preview it live, export a print-ready PDF.
+      <ul>
+        <li>54 templates across 14 layouts</li>
+        <li>Live preview matches the PDF exactly</li>
+        <li>Free / Pro plans and admin panel</li>
+        <li>Google sign-in, CSRF checks, rate limiting</li>
+      </ul>
+      <a href="https://resume.shayanshani.com"><img src="https://img.shields.io/badge/Live-resume.shayanshani.com-7F52FF?style=flat-square&logo=googlechrome&logoColor=white"/></a><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🩺 ENT Clinic Management System</h4>
+      Full clinic workflow for an ENT practice. Runs offline on the clinic PC.
+      <ul>
+        <li>Patient records with visit history</li>
+        <li>English / Urdu prescriptions sent as PDF on WhatsApp</li>
+        <li>Payments and analytics dashboard</li>
+        <li>Doctor and front-desk roles, portable Windows app</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🧾 InvoiceForge — Invoice SaaS</h4>
+      Web app to create and manage invoices for clients.
+      <ul>
+        <li>Client and invoice management</li>
+        <li>Invoice PDFs</li>
+        <li>Payment status tracking</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <h4>🔗 More projects</h4>
+      PDF Toolkit, on-device RAG library, Taj Fiberglass store and more on my portfolio.
+      <br/><br/>
+      <a href="https://shayanshani.com"><img src="https://img.shields.io/badge/See%20all-shayanshani.com-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ===================== STATS (self-generated, never breaks) ===================== -->
 ## 📊 GitHub Stats
 
